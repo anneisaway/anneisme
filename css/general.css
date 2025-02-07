@@ -1,15 +1,16 @@
+:root {
+    --dark-moss-green: #606c38ff;
+    --pakistan-green: #283618ff;
+    --cornsilk: #fefae0ff;
+    --earth-yellow: #dda15eff;
+    --tigers-eye: #bc6c25ff;
+}
+
 body{
-    background-color: ivory;
+    background-color: var(--cornsilk);
+    color: var(--pakistan-green);
 }
 
 header{
-    background-color: aliceblue;
+    background-color: var(--earth-yellow);
 }
-
-
-/* CSS HEX
---dark-moss-green: #606c38ff;
---pakistan-green: #283618ff;
---cornsilk: #fefae0ff;
---earth-yellow: #dda15eff;
---tigers-eye: #bc6c25ff; */
